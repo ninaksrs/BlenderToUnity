@@ -6,8 +6,8 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Terrain Layer
-  m_DiffuseTexture: {fileID: 0}
+  m_Name: Base gress
+  m_DiffuseTexture: {fileID: 2800000, guid: 55612be2fb0509740bd1a40ce06ab247, type: 3}
   m_NormalMapTexture: {fileID: 0}
   m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 2, y: 2}
